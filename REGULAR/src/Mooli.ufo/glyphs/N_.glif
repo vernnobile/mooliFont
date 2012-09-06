@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="N" format="1">
+  <advance width="1606"/>
+  <unicode hex="004E"/>
+  <outline>
+    <contour>
+      <point x="202" y="0" type="line"/>
+      <point x="202" y="1456" type="line"/>
+      <point x="408" y="1456" type="line"/>
+      <point x="1155" y="342" type="line"/>
+      <point x="1233" y="215" type="line"/>
+      <point x="1233" y="1456" type="line"/>
+      <point x="1404" y="1456" type="line"/>
+      <point x="1404" y="0" type="line"/>
+      <point x="1196" y="0" type="line"/>
+      <point x="446" y="1113" type="line"/>
+      <point x="374" y="1237" type="line"/>
+      <point x="374" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>21</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1436</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>202</integer>
+	    <key>width</key>
+	    <integer>172</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>1233</integer>
+	    <key>width</key>
+	    <integer>171</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

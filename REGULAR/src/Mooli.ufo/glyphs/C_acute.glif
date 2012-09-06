@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Cacute" format="1">
+  <advance width="1429"/>
+  <unicode hex="0106"/>
+  <outline>
+    <component base="C"/>
+    <component base="acute" xOffset="582" yOffset="433"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-23</integer>
+	    <key>width</key>	    <integer>147</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1335</integer>
+	    <key>width</key>	    <integer>148</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>1602</integer>
+	    <key>width</key>	    <integer>320</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>116</integer>
+	    <key>width</key>
+	    <integer>183</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>
+	    <integer>488</integer>
+	    <key>width</key>
+	    <integer>438</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

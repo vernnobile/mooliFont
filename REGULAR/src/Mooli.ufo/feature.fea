@@ -1,0 +1,45 @@
+#Mark attachment classes (defined in GDEF, used in lookupflags)
+
+@GDEF_Simple = [\space \exclam \quotedbl \numbersign \dollar \percent \ampersand 
+	\quotesingle \parenleft \parenright \asterisk \plus \comma \hyphen \period 
+	\slash \zero \one \two \three \four \five \six \seven \eight \nine \colon \semicolon 
+	\less \equal \greater \question \at \A \B \C \D \E \F \G \H \I \J \K \L \M \N \O \P \Q \R \S \T 
+	\U \V \W \X \Y \Z \bracketleft \backslash \bracketright \asciicircum \underscore 
+	\grave \a \b \c \d \e \f \g \h \i \j \k \l \m \n \o \p \q \r \s \t \u \v \w \x \y \z \braceleft \bar 
+	\braceright \asciitilde \Adieresis \dieresis \Aring \ring \Ccedilla \cedilla 
+	\Eacute \acute \Ntilde \tilde \Odieresis \Udieresis \aacute \agrave \acircumflex 
+	\circumflex \adieresis \atilde \aring \ccedilla \eacute \egrave \ecircumflex 
+	\edieresis \iacute \dotlessi \igrave \icircumflex \idieresis \ntilde \oacute 
+	\ograve \ocircumflex \odieresis \otilde \uacute \ugrave \ucircumflex \udieresis 
+	\dagger \degree \cent \sterling \section \bullet \paragraph \germandbls 
+	\registered \copyright \trademark \notequal \AE \Oslash \infinity \plusminus 
+	\lessequal \greaterequal \yen \partialdiff \summation \product \integral 
+	\ordfeminine \ordmasculine \ae \oslash \questiondown \uni00A0 \exclamdown 
+	\logicalnot \radical \florin \approxequal \guillemotleft \guillemotright 
+	\ellipsis \Agrave \Atilde \Otilde \OE \oe \endash \emdash \quotedblleft 
+	\quotedblright \quoteleft \quoteright \divide \lozenge \ydieresis \Ydieresis 
+	\fraction \Euro \guilsinglleft \guilsinglright \uniFB01 \uniFB02 \daggerdbl 
+	\periodcentered \quotesinglbase \quotedblbase \perthousand \Acircumflex 
+	\Ecircumflex \Aacute \Edieresis \Egrave \Iacute \Icircumflex \Idieresis \Igrave 
+	\Oacute \Ocircumflex \Ograve \Uacute \Ucircumflex \Ugrave \breve \dotaccent 
+	\hungarumlaut \ogonek \caron \macron \pi \Delta \uni000D \uni03A9 \Eth \multiply 
+	\Yacute \yacute \Lslash \lslash \Zcaron \zcaron \eth \scaron \Scaron \uni03BC 
+	\thorn \Thorn \brokenbar \periodcentered \minus \uni030F \uni0326 \uni0311 
+	\Scommaaccent \scommaaccent \uni021A \uni021B \uni0200 \uni0201 \uni0202 
+	\uni0203 \uni0204 \uni0205 \uni0206 \uni0207 \uni0208 \uni0209 \uni020A \uni020B 
+	\uni020C \uni020D \uni020E \uni020F \uni0210 \uni0211 \uni0212 \uni0213 \uni0214 
+	\uni0215 \uni0216 \uni0217 \uni00B2 \uni00B3 \uni00B9 \uni2074 \onequarter 
+	\onehalf \threequarters \currency \macron \emacron \Emacron \nacute \Nacute 
+	\Racute \rcaron \Rcaron \Sacute \sacute \imacron \Imacron \itilde \Itilde \cacute 
+	\Cacute \ccaron \Ccaron \Abreve \abreve \Zacute \zacute \zdotaccent \Zdotaccent 
+	\amacron \Amacron \ij \IJ \Aogonek \aogonek \eogonek \Eogonek \uniF6C3 
+	\tcommaaccent \Tcommaaccent \scommaaccent \Scommaaccent \iogonek \Iogonek 
+	\kcommaaccent \gcommaaccent \Gcommaaccent \hbar \rcommaaccent \Rcommaaccent 
+	\jcircumflex \Jcircumflex \uni0237 \ldot \Ldot \kgreenlandic \uni0307 \n.alt 
+	\J.alt \k.alt \nine.alt ];
+
+table GDEF {
+  GlyphClassDef @GDEF_Simple, , , ;
+
+} GDEF;
+
