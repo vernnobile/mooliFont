@@ -20,7 +20,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1305549013
-ModificationTime: 1346601011
+ModificationTime: 1347543257
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -1807,22 +1807,22 @@ EndChar
 StartChar: c
 Encoding: 68 99 68
 Width: 1048
-Flags: W
+Flags: HW
 HStem: -23 140<438.701 822.821> 909 142<443.13 808.721>
 VStem: 94 173<300.168 721.663>
 LayerCount: 2
 Fore
 SplineSet
 976 87 m 1
- 849 11 723 -23 609 -23 c 0
- 315 -23 94 193 94 503 c 0
- 94 824 289 1051 610 1051 c 4
+ 849 11 731 -23 617 -23 c 4
+ 305 -23 94 193 94 503 c 0
+ 94 824 289 1051 610 1051 c 0
  769 1051 892 1002 960 912 c 1
  883 801 l 1
  826 872 738 909 619 909 c 0
  389 909 267 737 267 508 c 0
- 267 258 412 117 616 117 c 0
- 714 117 825 146 940 225 c 1
+ 267 258 420 117 624 117 c 4
+ 722 117 825 146 940 225 c 1
  976 87 l 1
 EndSplineSet
 EndChar
@@ -1859,7 +1859,7 @@ EndChar
 StartChar: e
 Encoding: 70 101 70
 Width: 1073
-Flags: W
+Flags: HWO
 HStem: -19 142<431.944 787.078> 913 143<437.776 731.812>
 VStem: 94 180<389.882 735.087> 783 163<647.067 862.48>
 LayerCount: 2
@@ -1889,12 +1889,12 @@ SplineSet
  325 -19 94 176 94 516 c 0
  94 805 269 1056 592 1056 c 0
  808 1056 946 918 946 751 c 0
- 946 506 655 425 289 371 c 1
- 334 192 462 123 596 123 c 0
+ 946 506 683.5 386 288 380 c 5
+ 333 201 462 123 596 123 c 0
 593 913 m 0
  392 913 274 735 274 539 c 0
  274 523 275 507 277 490 c 1
- 563 534 783 594 783 755 c 0
+ 564 522 783 594 783 755 c 0
  783 846 714 913 593 913 c 0
 EndSplineSet
 EndChar
@@ -2369,7 +2369,7 @@ EndChar
 StartChar: s
 Encoding: 84 115 84
 Width: 1001
-Flags: WO
+Flags: W
 HStem: -26 138<299.401 688.154> 917 139<332.058 729.991>
 VStem: 114 171<685.842 870.842> 739 163<161.434 363.88>
 LayerCount: 2
@@ -5290,7 +5290,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: Delta
+StartChar: uni2206
 Encoding: 314 8710 220
 Width: 1314
 Flags: W
@@ -5321,7 +5321,7 @@ Flags: W
 LayerCount: 2
 EndChar
 
-StartChar: uni03A9
+StartChar: Omega
 Encoding: 291 937 222
 Width: 1603
 Flags: W
@@ -5579,7 +5579,7 @@ Refer: 217 711 N 1 0 0 1 320.5 435 2
 Refer: 52 83 N 1 0 0 1 0 0 3
 EndChar
 
-StartChar: uni03BC
+StartChar: mu
 Encoding: 292 956 234
 Width: 1217
 Flags: W
