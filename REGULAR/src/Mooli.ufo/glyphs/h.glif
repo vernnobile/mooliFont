@@ -35,57 +35,11 @@
       <point x="870" y="62"/>
       <point x="870" y="248" type="curve" smooth="yes"/>
     </contour>
+    <contour>
+      <point x="619" y="0" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="619" y="0" type="move" name="center"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>-24</integer>
-            <key>width</key>
-            <integer>126</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>0</integer>
-            <key>width</key>
-            <integer>21</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>911</integer>
-            <key>width</key>
-            <integer>140</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1506</integer>
-            <key>width</key>
-            <integer>20</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>154</integer>
-            <key>width</key>
-            <integer>165</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>870</integer>
-            <key>width</key>
-            <integer>165</integer>
-          </dict>
-        </array>
-      </dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

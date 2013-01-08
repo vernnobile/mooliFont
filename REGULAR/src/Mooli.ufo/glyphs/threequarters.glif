@@ -1,61 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="threequarters" format="1">
-  <advance width="1921"/>
+  <advance width="2455"/>
   <unicode hex="00BE"/>
   <outline>
-    <component base="fraction" xOffset="760"/>
-    <component base="uni00B3" xOffset="-55"/>
-    <component base="uni2074" xOffset="1055" yOffset="-574"/>
+    <component base="fraction"/>
+    <component base="uni00B3" xOffset="368"/>
+    <component base="uni2074" xOffset="1558"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>0</integer>
-	    <key>width</key>	    <integer>21</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>229</integer>
-	    <key>width</key>	    <integer>107</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>586</integer>
-	    <key>width</key>	    <integer>115</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>970</integer>
-	    <key>width</key>	    <integer>119</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1322</integer>
-	    <key>width</key>	    <integer>119</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>571</integer>
-	    <key>width</key>
-	    <integer>133</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>596</integer>
-	    <key>width</key>
-	    <integer>129</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>1411</integer>
-	    <key>width</key>
-	    <integer>122</integer>
-	  </dict>
-	</array>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

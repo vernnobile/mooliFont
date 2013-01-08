@@ -3,59 +3,7 @@
   <advance width="1001"/>
   <unicode hex="0161"/>
   <outline>
-    <component base="caron" xOffset="148.5" yOffset="8"/>
+    <component base="caron" xOffset="149" yOffset="8"/>
     <component base="s"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>-26</integer>
-            <key>width</key>
-            <integer>138</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>917</integer>
-            <key>width</key>
-            <integer>139</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1170</integer>
-            <key>width</key>
-            <integer>323</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>114</integer>
-            <key>width</key>
-            <integer>171</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>184</integer>
-            <key>width</key>
-            <integer>633</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>739</integer>
-            <key>width</key>
-            <integer>163</integer>
-          </dict>
-        </array>
-      </dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>
