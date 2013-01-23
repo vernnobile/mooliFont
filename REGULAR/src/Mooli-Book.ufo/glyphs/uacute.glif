@@ -6,11 +6,4 @@
     <component base="acute" xOffset="351" yOffset="1"/>
     <component base="u"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

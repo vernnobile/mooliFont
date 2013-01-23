@@ -4,6 +4,8 @@
   <unicode hex="006D"/>
   <outline>
     <contour>
+      <point x="1600" y="103"/>
+      <point x="1678" y="-19"/>
       <point x="1875" y="-22" type="curve"/>
       <point x="1901" y="109" type="line"/>
       <point x="1797" y="130"/>
@@ -25,8 +27,6 @@
       <point x="1602" y="562" type="curve"/>
       <point x="1600" y="352" type="line"/>
       <point x="1600" y="346" type="line" smooth="yes"/>
-      <point x="1600" y="103"/>
-      <point x="1678" y="-19"/>
     </contour>
     <contour>
       <point x="889" y="0" type="line"/>
@@ -62,11 +62,4 @@
       <point x="176" y="699" type="curve"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

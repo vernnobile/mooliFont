@@ -6,11 +6,4 @@
     <component base="u"/>
     <component base="dblgravecmb" xOffset="-21"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

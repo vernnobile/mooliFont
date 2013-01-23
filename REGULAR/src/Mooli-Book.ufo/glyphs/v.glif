@@ -10,7 +10,7 @@
       <point x="867" y="1026" type="line"/>
       <point x="591" y="336" type="line"/>
       <point x="579" y="309"/>
-      <point x="565.678660578" y="263.801313328"/>
+      <point x="565.679" y="263.801"/>
       <point x="535" y="163" type="curve"/>
       <point x="519" y="217"/>
       <point x="496" y="290"/>
@@ -19,11 +19,4 @@
       <point x="14" y="1026" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>
