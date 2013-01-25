@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-oonopon
+lunb
 );
 copyright = "Copyright (c) 2012 by vernon adams. All rights reserved.";
 customParameters = (
@@ -4902,7 +4902,7 @@ unicode = 0068;
 },
 {
 glyphname = i;
-lastChange = "2013-01-24 14:44:26 -0800";
+lastChange = "2013-01-24 19:06:40 -0800";
 layers = (
 {
 layerId = "E08CDE4C-5D6C-43D8-8149-5F9E51F0B944";
@@ -4911,18 +4911,12 @@ paths = (
 {
 closed = 1;
 nodes = (
-"123 63 OFFCURVE",
-"235 -22 OFFCURVE",
-"369 -22 CURVE SMOOTH",
-"419 -22 OFFCURVE",
-"471 -10 OFFCURVE",
-"522 13 CURVE",
-"565 186 LINE",
-"514 168 OFFCURVE",
-"470 157 OFFCURVE",
-"433 157 CURVE SMOOTH",
-"370 157 OFFCURVE",
-"331 190 OFFCURVE",
+"123 -29 OFFCURVE",
+"396 -65 OFFCURVE",
+"592 23 CURVE",
+"565 179 LINE",
+"445 137 OFFCURVE",
+"331 129 OFFCURVE",
 "331 279 CURVE SMOOTH",
 "331 844 LINE",
 "123 844 LINE",
